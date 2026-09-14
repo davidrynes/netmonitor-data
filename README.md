@@ -13,24 +13,17 @@ Per row: `rank`, `category`/`name`, `real_users` (int), `views` (int), `time` (r
 
 Categories with per-site detail: Zpravodajství, Sport, Bulvární magazíny, Auto-Moto - obsah, Magazíny zaměřené na ženy a módu.
 
-## Reading from an external agent (private repo)
-
-Requires a GitHub token with read access to this repo (fine-grained PAT, Contents: Read-only, is enough):
+## Reading from an external agent (public repo, no token needed)
 
 ```bash
-TOKEN="<github_pat_...>"
-
 # latest day
-curl -s -H "Authorization: Bearer $TOKEN" \
-  https://raw.githubusercontent.com/davidrynes/netmonitor-data/main/data/latest.json
+curl -s https://raw.githubusercontent.com/davidrynes/netmonitor-data/main/data/latest.json
 
 # specific day
-curl -s -H "Authorization: Bearer $TOKEN" \
-  https://raw.githubusercontent.com/davidrynes/netmonitor-data/main/data/2026-09-13.json
+curl -s https://raw.githubusercontent.com/davidrynes/netmonitor-data/main/data/2026-09-13.json
 
-# list available days (GitHub Contents API)
-curl -s -H "Authorization: Bearer $TOKEN" \
-  https://api.github.com/repos/davidrynes/netmonitor-data/contents/data
+# list available days (GitHub Contents API, no auth needed for public repos)
+curl -s https://api.github.com/repos/davidrynes/netmonitor-data/contents/data
 ```
 
 404 on a day = not measured yet or scrape failed. This mirror exists because restrictive proxies that block custom domains usually allow `raw.githubusercontent.com`.
