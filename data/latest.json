@@ -1,250 +1,250 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "source": "https://online.netmonitor.cz/cz/aggregate/12836",
- "scraped_at": "2026-11-15T08:00:40+0100",
+ "scraped_at": "2026-11-16T08:01:39+0100",
  "overview": [
   {
    "rank": 1,
    "category": "Zpravodajství",
-   "real_users": 2919928,
-   "views": 22660220,
-   "time": "59y 346d",
-   "time_seconds": 1890518400,
-   "visits": 10804838
+   "real_users": 2606560,
+   "views": 19796856,
+   "time": "51y 213d",
+   "time_seconds": 1626739200,
+   "visits": 9395678
   },
   {
    "rank": 2,
    "category": "HP rozcestníků",
-   "real_users": 2697200,
-   "views": 23364555,
-   "time": "81y 341d",
-   "time_seconds": 2583878400,
-   "visits": 10176277
+   "real_users": 2275768,
+   "views": 18253022,
+   "time": "63y 270d",
+   "time_seconds": 2010096000,
+   "visits": 7717594
   },
   {
    "rank": 3,
-   "category": "Databáze a katalogy",
-   "real_users": 1277496,
-   "views": 8663570,
-   "time": "13y 229d",
-   "time_seconds": 429753600,
-   "visits": 2261718
+   "category": "Bulvární magazíny",
+   "real_users": 1218800,
+   "views": 5828580,
+   "time": "11y 308d",
+   "time_seconds": 373507200,
+   "visits": 2373378
   },
   {
    "rank": 4,
-   "category": "Bulvární magazíny",
-   "real_users": 1276088,
-   "views": 6562483,
-   "time": "12y 287d",
-   "time_seconds": 403228800,
-   "visits": 2578044
+   "category": "Databáze a katalogy",
+   "real_users": 964656,
+   "views": 6769344,
+   "time": "9y 41d",
+   "time_seconds": 287366400,
+   "visits": 1686091
   },
   {
    "rank": 5,
-   "category": "Ekonomika, finance, právo",
-   "real_users": 1137664,
-   "views": 2830269,
-   "time": "6y 181d",
-   "time_seconds": 204854400,
-   "visits": 1808436
+   "category": "Tv, rádia",
+   "real_users": 938608,
+   "views": 3829063,
+   "time": "50y 31d",
+   "time_seconds": 1579478400,
+   "visits": 1578646
   },
   {
    "rank": 6,
-   "category": "Tv, rádia",
-   "real_users": 1120152,
-   "views": 4230421,
-   "time": "48y 319d",
-   "time_seconds": 1541289600,
-   "visits": 1846122
+   "category": "Magazíny zaměřené na ženy a módu",
+   "real_users": 866624,
+   "views": 2999925,
+   "time": "7y 119d",
+   "time_seconds": 231033600,
+   "visits": 1523482
   },
   {
    "rank": 7,
-   "category": "Magazíny zaměřené na ženy a módu",
-   "real_users": 1064800,
-   "views": 4118301,
-   "time": "9y 96d",
-   "time_seconds": 292118400,
-   "visits": 2042342
+   "category": "Sport",
+   "real_users": 848760,
+   "views": 4766325,
+   "time": "10y 131d",
+   "time_seconds": 326678400,
+   "visits": 1876120
   },
   {
    "rank": 8,
-   "category": "Sport",
-   "real_users": 993256,
-   "views": 6622520,
-   "time": "13y 316d",
-   "time_seconds": 437270400,
-   "visits": 2305015
+   "category": "E-commerce - prodej",
+   "real_users": 765600,
+   "views": 3969053,
+   "time": "5y 32d",
+   "time_seconds": 160444800,
+   "visits": 1188347
   },
   {
    "rank": 9,
-   "category": "E-commerce - prodej",
-   "real_users": 768768,
-   "views": 4148494,
-   "time": "5y 158d",
-   "time_seconds": 171331200,
-   "visits": 1208628
+   "category": "Ekonomika, finance, právo",
+   "real_users": 603768,
+   "views": 1356308,
+   "time": "2y 324d",
+   "time_seconds": 91065600,
+   "visits": 831119
   },
   {
    "rank": 10,
-   "category": "IT servery, mobilní a digitální technologie",
-   "real_users": 626736,
-   "views": 1417593,
-   "time": "3y 80d",
-   "time_seconds": 101520000,
-   "visits": 863522
+   "category": "Vaření a recepty",
+   "real_users": 489632,
+   "views": 1734122,
+   "time": "5y 13d",
+   "time_seconds": 158803200,
+   "visits": 832571
   },
   {
    "rank": 11,
    "category": "Komunitní a teens servery, fotogalerie",
-   "real_users": 535216,
-   "views": 2663309,
-   "time": "8y 150d",
-   "time_seconds": 265248000,
-   "visits": 1042507
+   "real_users": 464640,
+   "views": 2387797,
+   "time": "7y 351d",
+   "time_seconds": 251078400,
+   "visits": 895602
   },
   {
    "rank": 12,
    "category": "Společenské magazíny",
-   "real_users": 487872,
-   "views": 816487,
-   "time": "2y 53d",
-   "time_seconds": 67651200,
-   "visits": 619235
+   "real_users": 420288,
+   "views": 703648,
+   "time": "1y 360d",
+   "time_seconds": 62640000,
+   "visits": 508864
   },
   {
    "rank": 13,
-   "category": "Vaření a recepty",
-   "real_users": 424952,
-   "views": 1435325,
-   "time": "3y 294d",
-   "time_seconds": 120009600,
-   "visits": 692114
+   "category": "Cestování - obsah",
+   "real_users": 396528,
+   "views": 659891,
+   "time": "1y 112d",
+   "time_seconds": 41212800,
+   "visits": 454294
   },
   {
    "rank": 14,
    "category": "Auto-Moto - obsah",
-   "real_users": 416064,
-   "views": 1544616,
-   "time": "2y 273d",
-   "time_seconds": 86659200,
-   "visits": 606655
+   "real_users": 376992,
+   "views": 1135218,
+   "time": "2y 183d",
+   "time_seconds": 78883200,
+   "visits": 545071
   },
   {
    "rank": 15,
-   "category": "Komunikační služby",
-   "real_users": 293920,
-   "views": 6151448,
-   "time": "4y 226d",
-   "time_seconds": 145670400,
-   "visits": 1095005
+   "category": "IT servery, mobilní a digitální technologie",
+   "real_users": 334664,
+   "views": 701648,
+   "time": "1y 185d",
+   "time_seconds": 47520000,
+   "visits": 424380
   },
   {
    "rank": 16,
-   "category": "Cestování - obsah",
-   "real_users": 284944,
-   "views": 691519,
-   "time": "1y 43d",
-   "time_seconds": 35251200,
-   "visits": 351336
+   "category": "Zábava a hry",
+   "real_users": 235400,
+   "views": 688429,
+   "time": "1y 144d",
+   "time_seconds": 43977600,
+   "visits": 287214
   },
   {
    "rank": 17,
    "category": "Reality",
-   "real_users": 254408,
-   "views": 4666348,
-   "time": "3y 321d",
-   "time_seconds": 122342400,
-   "visits": 400219
+   "real_users": 217184,
+   "views": 4232082,
+   "time": "3y 195d",
+   "time_seconds": 111456000,
+   "visits": 346746
   },
   {
    "rank": 18,
-   "category": "Zábava a hry",
-   "real_users": 245608,
-   "views": 753264,
-   "time": "1y 196d",
-   "time_seconds": 48470400,
-   "visits": 307701
+   "category": "Dům a bydlení",
+   "real_users": 206096,
+   "views": 622798,
+   "time": "1y 81d",
+   "time_seconds": 38534400,
+   "visits": 234608
   },
   {
    "rank": 19,
-   "category": "Hobby, zahrada a volný čas",
-   "real_users": 190432,
-   "views": 499849,
-   "time": "1y 78d",
-   "time_seconds": 38275200,
-   "visits": 245398
+   "category": "Komunikační služby",
+   "real_users": 201696,
+   "views": 2852453,
+   "time": "1y 313d",
+   "time_seconds": 58579200,
+   "visits": 667696
   },
   {
    "rank": 20,
-   "category": "Dům a bydlení",
-   "real_users": 170368,
-   "views": 605246,
-   "time": "1y 12d",
-   "time_seconds": 32572800,
-   "visits": 220323
+   "category": "Hobby, zahrada a volný čas",
+   "real_users": 181720,
+   "views": 459592,
+   "time": "1y 13d",
+   "time_seconds": 32659200,
+   "visits": 215468
   },
   {
    "rank": 21,
    "category": "Auto-Moto - prodej",
-   "real_users": 119328,
-   "views": 2461375,
-   "time": "2y 25d",
-   "time_seconds": 65232000,
-   "visits": 215828
+   "real_users": 106128,
+   "views": 2476796,
+   "time": "2y 14d",
+   "time_seconds": 64281600,
+   "visits": 200334
   },
   {
    "rank": 22,
    "category": "Zdraví",
-   "real_users": 81752,
-   "views": 153740,
-   "time": "186d 14h",
-   "time_seconds": 16120800,
-   "visits": 97133
+   "real_users": 60280,
+   "views": 105837,
+   "time": "134d 13h",
+   "time_seconds": 11624400,
+   "visits": 68804
   },
   {
    "rank": 23,
    "category": "Těhotenství a rodičovství",
-   "real_users": 43648,
-   "views": 282499,
-   "time": "154d 9h",
-   "time_seconds": 13338000,
-   "visits": 71799
+   "real_users": 56760,
+   "views": 287191,
+   "time": "155d 15h",
+   "time_seconds": 13446000,
+   "visits": 75209
   },
   {
    "rank": 24,
-   "category": "Mužské magazíny o životním stylu",
-   "real_users": 18128,
-   "views": 274322,
-   "time": "48d 16h",
-   "time_seconds": 4204800,
-   "visits": 24628
+   "category": "E-commerce - obsah",
+   "real_users": 13816,
+   "views": 102487,
+   "time": "30d 12h",
+   "time_seconds": 2635200,
+   "visits": 15782
   },
   {
    "rank": 25,
-   "category": "E-commerce - obsah",
-   "real_users": 14696,
-   "views": 144802,
-   "time": "43d 18h",
-   "time_seconds": 3780000,
-   "visits": 23431
+   "category": "Mužské magazíny o životním stylu",
+   "real_users": 12584,
+   "views": 278760,
+   "time": "46d 12h",
+   "time_seconds": 4017600,
+   "visits": 17670
   },
   {
    "rank": 26,
    "category": "Offline obchodování",
    "real_users": 440,
-   "views": 5705,
-   "time": "3d 3h",
-   "time_seconds": 270000,
-   "visits": 1750
+   "views": 7680,
+   "time": "2d 22h",
+   "time_seconds": 252000,
+   "visits": 2360
   }
  ],
  "overview_total": {
   "rank": null,
   "category": "All",
-  "real_users": 5197368,
-  "views": 107373402,
-  "time": "284y 355d",
-  "time_seconds": 8986896000,
+  "real_users": 4704920,
+  "views": 86705633,
+  "time": "241y 122d",
+  "time_seconds": 7610716800,
   "visits": null
  },
  "categories": {
@@ -252,228 +252,228 @@
    "total": {
     "rank": null,
     "category": "All",
-    "real_users": 2919928,
-    "views": 22660220,
-    "time": "59y 346d",
-    "time_seconds": 1890518400,
+    "real_users": 2606560,
+    "views": 19796856,
+    "time": "51y 213d",
+    "time_seconds": 1626739200,
     "visits": null
    },
    "sites": [
     {
      "rank": 1,
      "name": "novinky.cz - rubrika Zpravodajstvi",
-     "real_users": 1610664,
-     "views": 7508812,
-     "time": "20y 191d",
-     "time_seconds": 647222400,
-     "visits": 3710854
+     "real_users": 1528648,
+     "views": 7109717,
+     "time": "18y 349d",
+     "time_seconds": 597801600,
+     "visits": 3371848
     },
     {
      "rank": 2,
      "name": "seznamzpravy.cz",
-     "real_users": 1414512,
-     "views": 4405198,
-     "time": "17y 50d",
-     "time_seconds": 540432000,
-     "visits": 2593518
+     "real_users": 1142504,
+     "views": 3171078,
+     "time": "11y 266d",
+     "time_seconds": 369878400,
+     "visits": 1884164
     },
     {
      "rank": 3,
-     "name": "iDNES Zpravodajství",
-     "real_users": 506968,
-     "views": 4521182,
-     "time": "6y 137d",
-     "time_seconds": 201052800,
-     "visits": 1069404
+     "name": "Zpravodajství Deník",
+     "real_users": 491216,
+     "views": 1203618,
+     "time": "2y 64d",
+     "time_seconds": 68601600,
+     "visits": 630811
     },
     {
      "rank": 4,
-     "name": "Zpravodajství Deník",
-     "real_users": 506176,
-     "views": 1253430,
-     "time": "2y 81d",
-     "time_seconds": 70070400,
-     "visits": 652618
+     "name": "CNN Prima NEWS",
+     "real_users": 461384,
+     "views": 964425,
+     "time": "2y 219d",
+     "time_seconds": 81993600,
+     "visits": 575245
     },
     {
      "rank": 5,
      "name": "TN.cz Zpravodajství",
-     "real_users": 431640,
-     "views": 834275,
-     "time": "1y 136d",
-     "time_seconds": 43286400,
-     "visits": 526156
+     "real_users": 420816,
+     "views": 909572,
+     "time": "1y 299d",
+     "time_seconds": 57369600,
+     "visits": 533529
     },
     {
      "rank": 6,
-     "name": "aktualne.cz - Zpravy",
-     "real_users": 358248,
-     "views": 803781,
-     "time": "2y 80d",
-     "time_seconds": 69984000,
-     "visits": 462675
+     "name": "iDNES Zpravodajství",
+     "real_users": 418968,
+     "views": 3562280,
+     "time": "5y 12d",
+     "time_seconds": 158716800,
+     "visits": 860935
     },
     {
      "rank": 7,
-     "name": "CNN Prima NEWS",
-     "real_users": 350240,
-     "views": 776593,
-     "time": "1y 350d",
-     "time_seconds": 61776000,
-     "visits": 433264
+     "name": "aktualne.cz - Zpravy",
+     "real_users": 308792,
+     "views": 663701,
+     "time": "2y 48d",
+     "time_seconds": 67219200,
+     "visits": 398769
     },
     {
      "rank": 8,
      "name": "forum24.cz",
-     "real_users": 187088,
-     "views": 460914,
-     "time": "1y 257d",
-     "time_seconds": 53740800,
-     "visits": 248031
+     "real_users": 172656,
+     "views": 438002,
+     "time": "1y 248d",
+     "time_seconds": 52963200,
+     "visits": 227008
     },
     {
      "rank": 9,
-     "name": "drbna.cz",
-     "real_users": 187088,
-     "views": 291592,
-     "time": "205d 5h",
-     "time_seconds": 17730000,
-     "visits": 201131
+     "name": "irozhlas.cz",
+     "real_users": 126192,
+     "views": 246929,
+     "time": "289d 22h",
+     "time_seconds": 25048800,
+     "visits": 154473
     },
     {
      "rank": 10,
-     "name": "irozhlas.cz",
-     "real_users": 141328,
-     "views": 294637,
-     "time": "291d 2h",
-     "time_seconds": 25149600,
-     "visits": 175046
+     "name": "drbna.cz",
+     "real_users": 121616,
+     "views": 207408,
+     "time": "132d 4h",
+     "time_seconds": 11419200,
+     "visits": 135342
     },
     {
      "rank": 11,
      "name": "Blesk.cz - Zprávy",
-     "real_users": 118008,
-     "views": 425436,
-     "time": "243d 13h",
-     "time_seconds": 21042000,
-     "visits": 153279
+     "real_users": 110176,
+     "views": 430276,
+     "time": "249d 4h",
+     "time_seconds": 21528000,
+     "visits": 145986
     },
     {
      "rank": 12,
      "name": "CT 24",
-     "real_users": 113520,
-     "views": 259239,
-     "time": "2y 143d",
-     "time_seconds": 75427200,
-     "visits": 133725
+     "real_users": 84216,
+     "views": 198562,
+     "time": "1y 334d",
+     "time_seconds": 60393600,
+     "visits": 104447
     },
     {
      "rank": 13,
-     "name": "reflex.cz",
-     "real_users": 60280,
-     "views": 117080,
-     "time": "130d 0h",
-     "time_seconds": 11232000,
-     "visits": 68743
+     "name": "echo24.cz",
+     "real_users": 55088,
+     "views": 102687,
+     "time": "95d 4h",
+     "time_seconds": 8222400,
+     "visits": 62039
     },
     {
      "rank": 14,
      "name": "extra.cz Zprávy",
-     "real_users": 56232,
-     "views": 107657,
-     "time": "75d 0h",
-     "time_seconds": 6480000,
-     "visits": 61766
+     "real_users": 42504,
+     "views": 84531,
+     "time": "65d 13h",
+     "time_seconds": 5662800,
+     "visits": 50751
     },
     {
      "rank": 15,
      "name": "Lidovky zpravodajství",
-     "real_users": 53680,
-     "views": 256068,
-     "time": "228d 19h",
-     "time_seconds": 19767600,
-     "visits": 75499
+     "real_users": 39864,
+     "views": 215545,
+     "time": "185d 9h",
+     "time_seconds": 16016400,
+     "visits": 59853
     },
     {
      "rank": 16,
-     "name": "echo24.cz",
-     "real_users": 52184,
-     "views": 102245,
-     "time": "85d 15h",
-     "time_seconds": 7398000,
-     "visits": 62308
+     "name": "reflex.cz",
+     "real_users": 39776,
+     "views": 79247,
+     "time": "90d 23h",
+     "time_seconds": 7858800,
+     "visits": 46827
     },
     {
      "rank": 17,
-     "name": "nasregion.cz",
-     "real_users": 35816,
-     "views": 50982,
-     "time": "45d 6h",
-     "time_seconds": 3909600,
-     "visits": 41334
+     "name": "Tiscali zprávy",
+     "real_users": 33352,
+     "views": 54080,
+     "time": "40d 7h",
+     "time_seconds": 3481200,
+     "visits": 38102
     },
     {
      "rank": 18,
-     "name": "Tiscali zprávy",
-     "real_users": 31152,
-     "views": 61333,
-     "time": "47d 7h",
-     "time_seconds": 4086000,
-     "visits": 42075
+     "name": "nasregion.cz",
+     "real_users": 29656,
+     "views": 41158,
+     "time": "36d 3h",
+     "time_seconds": 3121200,
+     "visits": 32162
     },
     {
      "rank": 19,
      "name": "ceskenoviny.cz",
-     "real_users": 30800,
-     "views": 47172,
-     "time": "37d 13h",
-     "time_seconds": 3243600,
-     "visits": 34151
+     "real_users": 26576,
+     "views": 44358,
+     "time": "37d 8h",
+     "time_seconds": 3225600,
+     "visits": 32717
     },
     {
      "rank": 20,
-     "name": "armadnizpravodaj.cz",
-     "real_users": 19448,
-     "views": 30228,
-     "time": "39d 18h",
-     "time_seconds": 3434400,
-     "visits": 21577
+     "name": "prahain.cz",
+     "real_users": 21208,
+     "views": 32664,
+     "time": "25d 22h",
+     "time_seconds": 2239200,
+     "visits": 24167
     },
     {
      "rank": 21,
-     "name": "prahain.cz",
-     "real_users": 19184,
-     "views": 31236,
-     "time": "24d 18h",
-     "time_seconds": 2138400,
-     "visits": 23022
+     "name": "armadnizpravodaj.cz",
+     "real_users": 17248,
+     "views": 26823,
+     "time": "33d 7h",
+     "time_seconds": 2876400,
+     "visits": 19804
     },
     {
      "rank": 22,
-     "name": "tydenikpolicie.cz",
-     "real_users": 8096,
-     "views": 11443,
-     "time": "3d 22h",
-     "time_seconds": 338400,
-     "visits": 8342
+     "name": "ekolist.cz",
+     "real_users": 3168,
+     "views": 5137,
+     "time": "5d 17h",
+     "time_seconds": 493200,
+     "visits": 3439
     },
     {
      "rank": 23,
-     "name": "ekolist.cz",
-     "real_users": 5896,
-     "views": 9450,
-     "time": "13d 11h",
-     "time_seconds": 1162800,
-     "visits": 6124
+     "name": "tydenikpolicie.cz",
+     "real_users": 2728,
+     "views": 4855,
+     "time": "2d 12h",
+     "time_seconds": 216000,
+     "visits": 3107
     },
     {
      "rank": 24,
      "name": "publico.cz",
      "real_users": 264,
-     "views": 238,
-     "time": "5h 0m 0s",
-     "time_seconds": 18000,
-     "visits": 197
+     "views": 202,
+     "time": "4h 10m 0s",
+     "time_seconds": 15000,
+     "visits": 150
     }
    ]
   },
@@ -481,156 +481,156 @@
    "total": {
     "rank": null,
     "category": "All",
-    "real_users": 993256,
-    "views": 6622520,
-    "time": "13y 316d",
-    "time_seconds": 437270400,
+    "real_users": 848760,
+    "views": 4766325,
+    "time": "10y 131d",
+    "time_seconds": 326678400,
     "visits": null
    },
    "sites": [
     {
      "rank": 1,
      "name": "sport.cz",
-     "real_users": 741136,
-     "views": 4582397,
-     "time": "8y 333d",
-     "time_seconds": 281059200,
-     "visits": 1576271
+     "real_users": 642664,
+     "views": 2888688,
+     "time": "5y 351d",
+     "time_seconds": 188006400,
+     "visits": 1190551
     },
     {
      "rank": 2,
-     "name": "iDNES Sport",
-     "real_users": 106480,
-     "views": 616422,
-     "time": "327d 0h",
-     "time_seconds": 28252800,
-     "visits": 170379
+     "name": "Blesk.cz - iSport",
+     "real_users": 112112,
+     "views": 353963,
+     "time": "196d 0h",
+     "time_seconds": 16934400,
+     "visits": 146622
     },
     {
      "rank": 3,
-     "name": "Blesk.cz - iSport",
-     "real_users": 100936,
-     "views": 430444,
-     "time": "224d 6h",
-     "time_seconds": 19375200,
-     "visits": 142749
+     "name": "iDNES Sport",
+     "real_users": 106744,
+     "views": 498374,
+     "time": "275d 5h",
+     "time_seconds": 23778000,
+     "visits": 155677
     },
     {
      "rank": 4,
      "name": "aktualne.cz - Sport",
-     "real_users": 100848,
-     "views": 145314,
-     "time": "182d 8h",
-     "time_seconds": 15753600,
-     "visits": 110637
+     "real_users": 89056,
+     "views": 156310,
+     "time": "176d 12h",
+     "time_seconds": 15249600,
+     "visits": 108112
     },
     {
      "rank": 5,
      "name": "hokej.cz",
-     "real_users": 46552,
-     "views": 184495,
-     "time": "104d 8h",
-     "time_seconds": 9014400,
-     "visits": 65514
+     "real_users": 43296,
+     "views": 192160,
+     "time": "197d 11h",
+     "time_seconds": 17060400,
+     "visits": 62596
     },
     {
      "rank": 6,
-     "name": "Nova Sport",
-     "real_users": 42592,
-     "views": 52949,
-     "time": "28d 20h",
-     "time_seconds": 2491200,
-     "visits": 45866
+     "name": "onlajny.com",
+     "real_users": 42416,
+     "views": 442585,
+     "time": "248d 19h",
+     "time_seconds": 21495600,
+     "visits": 98308
     },
     {
      "rank": 7,
      "name": "CT sport",
-     "real_users": 42152,
-     "views": 112782,
-     "time": "1y 297d",
-     "time_seconds": 57196800,
-     "visits": 60624
+     "real_users": 25872,
+     "views": 87439,
+     "time": "1y 61d",
+     "time_seconds": 36806400,
+     "visits": 42845
     },
     {
      "rank": 8,
-     "name": "onlajny.com",
-     "real_users": 40480,
-     "views": 341401,
-     "time": "198d 13h",
-     "time_seconds": 17154000,
-     "visits": 81631
+     "name": "Nova Sport",
+     "real_users": 23936,
+     "views": 37228,
+     "time": "26d 10h",
+     "time_seconds": 2282400,
+     "visits": 29881
     },
     {
      "rank": 9,
      "name": "footballclub.cz",
-     "real_users": 21472,
-     "views": 46136,
-     "time": "34d 6h",
-     "time_seconds": 2959200,
-     "visits": 21833
+     "real_users": 14784,
+     "views": 35458,
+     "time": "22d 22h",
+     "time_seconds": 1980000,
+     "visits": 16251
     },
     {
      "rank": 10,
      "name": "nhl.cz",
-     "real_users": 16720,
-     "views": 94519,
-     "time": "40d 6h",
-     "time_seconds": 3477600,
-     "visits": 24402
+     "real_users": 14520,
+     "views": 60592,
+     "time": "29d 21h",
+     "time_seconds": 2581200,
+     "visits": 21227
     },
     {
      "rank": 11,
      "name": "sparta.cz",
-     "real_users": 2112,
-     "views": 6726,
-     "time": "2d 12h",
-     "time_seconds": 216000,
-     "visits": 2578
+     "real_users": 264,
+     "views": 5085,
+     "time": "3d 3h",
+     "time_seconds": 270000,
+     "visits": 2073
     },
     {
      "rank": 12,
-     "name": "mmamag.cz",
-     "real_users": 1144,
-     "views": 1331,
-     "time": "21h 39m 59s",
-     "time_seconds": 77999,
-     "visits": 1096
+     "name": "hcsparta.cz",
+     "real_users": 264,
+     "views": 730,
+     "time": "2h 30m 1s",
+     "time_seconds": 9001,
+     "visits": 165
     },
     {
      "rank": 13,
-     "name": "hcsparta.cz",
+     "name": "fkpardubice.cz",
      "real_users": 264,
-     "views": 949,
-     "time": "1h 40m 1s",
-     "time_seconds": 6001,
-     "visits": 224
+     "views": 3715,
+     "time": "1d 1h",
+     "time_seconds": 90000,
+     "visits": 1058
     },
     {
      "rank": 14,
-     "name": "fkpardubice.cz",
+     "name": "icearena.cz",
      "real_users": 264,
-     "views": 4268,
-     "time": "1d 10h",
-     "time_seconds": 122400,
-     "visits": 1063
+     "views": 2928,
+     "time": "15h 0m 0s",
+     "time_seconds": 54000,
+     "visits": 3
     },
     {
      "rank": 15,
-     "name": "icearena.cz",
+     "name": "mmamag.cz",
      "real_users": 264,
-     "views": 1954,
-     "time": "10h 49m 59s",
-     "time_seconds": 38999,
-     "visits": 3
+     "views": 774,
+     "time": "15h 50m 0s",
+     "time_seconds": 57000,
+     "visits": 641
     },
     {
      "rank": 16,
      "name": "hcletci.cz",
-     "real_users": 264,
-     "views": 435,
-     "time": "50m 1s",
-     "time_seconds": 3001,
-     "visits": 143
+     "real_users": 176,
+     "views": 297,
+     "time": "2h 30m 0s",
+     "time_seconds": 9000,
+     "visits": 110
     }
    ]
   },
@@ -638,75 +638,75 @@
    "total": {
     "rank": null,
     "category": "All",
-    "real_users": 1276088,
-    "views": 6562483,
-    "time": "12y 287d",
-    "time_seconds": 403228800,
+    "real_users": 1218800,
+    "views": 5828580,
+    "time": "11y 308d",
+    "time_seconds": 373507200,
     "visits": null
    },
    "sites": [
     {
      "rank": 1,
      "name": "super.cz",
-     "real_users": 1134496,
-     "views": 4269732,
-     "time": "10y 123d",
-     "time_seconds": 325987200,
-     "visits": 2032826
+     "real_users": 987800,
+     "views": 3451824,
+     "time": "8y 163d",
+     "time_seconds": 266371200,
+     "visits": 1637715
     },
     {
      "rank": 2,
      "name": "extra.cz - Other",
-     "real_users": 220352,
-     "views": 1063704,
-     "time": "1y 32d",
-     "time_seconds": 34300800,
-     "visits": 260308
+     "real_users": 293656,
+     "views": 1204760,
+     "time": "1y 329d",
+     "time_seconds": 59961600,
+     "visits": 376377
     },
     {
      "rank": 3,
      "name": "Blesk.cz - Celebrity",
-     "real_users": 131208,
-     "views": 664071,
-     "time": "311d 6h",
-     "time_seconds": 26892000,
-     "visits": 166522
+     "real_users": 178288,
+     "views": 672508,
+     "time": "1y 3d",
+     "time_seconds": 31795200,
+     "visits": 234417
     },
     {
      "rank": 4,
      "name": "expres.cz",
-     "real_users": 53856,
-     "views": 392116,
-     "time": "107d 19h",
-     "time_seconds": 9313200,
-     "visits": 62833
+     "real_users": 59224,
+     "views": 341806,
+     "time": "102d 23h",
+     "time_seconds": 8895600,
+     "visits": 65770
     },
     {
      "rank": 5,
      "name": "ahaonline.cz",
-     "real_users": 38896,
-     "views": 170141,
-     "time": "76d 15h",
-     "time_seconds": 6620400,
-     "visits": 53962
+     "real_users": 41712,
+     "views": 153658,
+     "time": "72d 6h",
+     "time_seconds": 6242400,
+     "visits": 56859
     },
     {
      "rank": 6,
      "name": "nasehvezdy.cz",
-     "real_users": 880,
-     "views": 1934,
-     "time": "14h 9m 59s",
-     "time_seconds": 50999,
-     "visits": 996
+     "real_users": 1672,
+     "views": 3325,
+     "time": "1d 2h",
+     "time_seconds": 93600,
+     "visits": 1671
     },
     {
      "rank": 7,
      "name": "mojecelebrity.cz",
      "real_users": 264,
-     "views": 786,
-     "time": "7h 30m 1s",
-     "time_seconds": 27001,
-     "visits": 596
+     "views": 699,
+     "time": "5h 50m 1s",
+     "time_seconds": 21001,
+     "visits": 568
     }
    ]
   },
@@ -714,147 +714,147 @@
    "total": {
     "rank": null,
     "category": "All",
-    "real_users": 416064,
-    "views": 1544616,
-    "time": "2y 273d",
-    "time_seconds": 86659200,
+    "real_users": 376992,
+    "views": 1135218,
+    "time": "2y 183d",
+    "time_seconds": 78883200,
     "visits": null
    },
    "sites": [
     {
      "rank": 1,
      "name": "garaz.cz",
-     "real_users": 225896,
-     "views": 414826,
-     "time": "1y 220d",
-     "time_seconds": 50544000,
-     "visits": 279725
+     "real_users": 200376,
+     "views": 360994,
+     "time": "1y 174d",
+     "time_seconds": 46569600,
+     "visits": 243215
     },
     {
      "rank": 2,
      "name": "novinky.cz - rubrika AutoMoto",
-     "real_users": 52272,
-     "views": 67289,
-     "time": "51d 8h",
-     "time_seconds": 4435200,
-     "visits": 56922
+     "real_users": 54560,
+     "views": 69857,
+     "time": "40d 11h",
+     "time_seconds": 3495600,
+     "visits": 61741
     },
     {
      "rank": 3,
-     "name": "auto.cz",
-     "real_users": 49632,
-     "views": 208886,
-     "time": "96d 10h",
-     "time_seconds": 8330400,
-     "visits": 60033
+     "name": "autojournal.cz",
+     "real_users": 53416,
+     "views": 95812,
+     "time": "65d 14h",
+     "time_seconds": 5666400,
+     "visits": 60380
     },
     {
      "rank": 4,
-     "name": "autosalon.tv",
-     "real_users": 44440,
-     "views": 94278,
-     "time": "57d 19h",
-     "time_seconds": 4993200,
-     "visits": 45628
+     "name": "auto.cz",
+     "real_users": 45056,
+     "views": 166687,
+     "time": "89d 3h",
+     "time_seconds": 7700400,
+     "visits": 50754
     },
     {
      "rank": 5,
-     "name": "autojournal.cz",
-     "real_users": 41184,
-     "views": 77370,
-     "time": "41d 12h",
-     "time_seconds": 3585600,
-     "visits": 43283
+     "name": "autosalon.tv",
+     "real_users": 41448,
+     "views": 82045,
+     "time": "67d 14h",
+     "time_seconds": 5839200,
+     "visits": 42189
     },
     {
      "rank": 6,
      "name": "auto-mania.cz",
-     "real_users": 23936,
-     "views": 33142,
-     "time": "26d 6h",
-     "time_seconds": 2268000,
-     "visits": 26167
+     "real_users": 21032,
+     "views": 24866,
+     "time": "30d 10h",
+     "time_seconds": 2628000,
+     "visits": 21242
     },
     {
      "rank": 7,
      "name": "iDNES Auto",
-     "real_users": 20680,
-     "views": 488552,
-     "time": "76d 6h",
-     "time_seconds": 6588000,
-     "visits": 34046
+     "real_users": 17424,
+     "views": 247369,
+     "time": "41d 3h",
+     "time_seconds": 3553200,
+     "visits": 30680
     },
     {
      "rank": 8,
      "name": "autorevue.cz",
-     "real_users": 13992,
-     "views": 93969,
-     "time": "21d 23h",
-     "time_seconds": 1897200,
-     "visits": 18244
+     "real_users": 14432,
+     "views": 57071,
+     "time": "18d 6h",
+     "time_seconds": 1576800,
+     "visits": 15580
     },
     {
      "rank": 9,
-     "name": "autozive.cz",
-     "real_users": 10560,
-     "views": 15114,
-     "time": "15d 3h",
-     "time_seconds": 1306800,
-     "visits": 13805
+     "name": "Denik.cz Auto",
+     "real_users": 3344,
+     "views": 5258,
+     "time": "5d 19h",
+     "time_seconds": 500400,
+     "visits": 4264
     },
     {
      "rank": 10,
-     "name": "Denik.cz Auto",
-     "real_users": 7568,
-     "views": 13818,
-     "time": "14d 22h",
-     "time_seconds": 1288800,
-     "visits": 10987
+     "name": "autozive.cz",
+     "real_users": 2992,
+     "views": 4306,
+     "time": "4d 21h",
+     "time_seconds": 421200,
+     "visits": 3827
     },
     {
      "rank": 11,
-     "name": "autoweb.cz",
-     "real_users": 6776,
-     "views": 10774,
-     "time": "4d 8h",
-     "time_seconds": 374400,
-     "visits": 6893
+     "name": "skodahome.cz",
+     "real_users": 2376,
+     "views": 7963,
+     "time": "6d 5h",
+     "time_seconds": 536400,
+     "visits": 4080
     },
     {
      "rank": 12,
-     "name": "zakruta.cz",
-     "real_users": 2552,
-     "views": 17326,
-     "time": "5d 1h",
-     "time_seconds": 435600,
-     "visits": 6178
+     "name": "autoweb.cz",
+     "real_users": 2288,
+     "views": 4087,
+     "time": "1d 22h",
+     "time_seconds": 165600,
+     "visits": 2504
     },
     {
      "rank": 13,
-     "name": "skodahome.cz",
-     "real_users": 968,
-     "views": 8391,
-     "time": "6d 12h",
-     "time_seconds": 561600,
-     "visits": 4072
+     "name": "zakruta.cz",
+     "real_users": 1232,
+     "views": 8229,
+     "time": "2d 8h",
+     "time_seconds": 201600,
+     "visits": 4082
     },
     {
      "rank": 14,
      "name": "hybrid.cz",
      "real_users": 264,
-     "views": 685,
-     "time": "8h 19m 59s",
-     "time_seconds": 29999,
-     "visits": 483
+     "views": 517,
+     "time": "10h 0m 0s",
+     "time_seconds": 36000,
+     "visits": 378
     },
     {
      "rank": 15,
      "name": "TN.cz - Auto",
      "real_users": 264,
-     "views": 196,
-     "time": "4h 59m 59s",
-     "time_seconds": 17999,
-     "visits": 191
+     "views": 158,
+     "time": "4h 10m 1s",
+     "time_seconds": 15001,
+     "visits": 155
     }
    ]
   },
@@ -862,246 +862,246 @@
    "total": {
     "rank": null,
     "category": "All",
-    "real_users": 1064800,
-    "views": 4118301,
-    "time": "9y 96d",
-    "time_seconds": 292118400,
+    "real_users": 866624,
+    "views": 2999925,
+    "time": "7y 119d",
+    "time_seconds": 231033600,
     "visits": null
    },
    "sites": [
     {
      "rank": 1,
      "name": "prozeny.cz",
-     "real_users": 491832,
-     "views": 1024926,
-     "time": "3y 75d",
-     "time_seconds": 101088000,
-     "visits": 670977
+     "real_users": 431728,
+     "views": 942160,
+     "time": "2y 356d",
+     "time_seconds": 93830400,
+     "visits": 582131
     },
     {
      "rank": 2,
      "name": "novinky.cz - rubrika Lifestyle",
-     "real_users": 447304,
-     "views": 678102,
-     "time": "2y 50d",
-     "time_seconds": 67392000,
-     "visits": 549525
+     "real_users": 239712,
+     "views": 347428,
+     "time": "1y 61d",
+     "time_seconds": 36806400,
+     "visits": 273421
     },
     {
      "rank": 3,
-     "name": "aktualne.cz - Zena",
-     "real_users": 110264,
-     "views": 407474,
-     "time": "224d 13h",
-     "time_seconds": 19400400,
-     "visits": 132455
+     "name": "svetzeny.cz",
+     "real_users": 93632,
+     "views": 177642,
+     "time": "242d 13h",
+     "time_seconds": 20955600,
+     "visits": 112200
     },
     {
      "rank": 4,
      "name": "marianne.cz",
-     "real_users": 81664,
-     "views": 173348,
-     "time": "147d 0h",
-     "time_seconds": 12700800,
-     "visits": 99044
+     "real_users": 78936,
+     "views": 148711,
+     "time": "119d 10h",
+     "time_seconds": 10317600,
+     "visits": 90260
     },
     {
      "rank": 5,
-     "name": "prima-zeny.cz",
-     "real_users": 78672,
-     "views": 235814,
-     "time": "142d 7h",
-     "time_seconds": 12294000,
-     "visits": 81929
+     "name": "aktualne.cz - Zena",
+     "real_users": 68200,
+     "views": 179890,
+     "time": "130d 14h",
+     "time_seconds": 11282400,
+     "visits": 78968
     },
     {
      "rank": 6,
-     "name": "zena-in.cz",
-     "real_users": 66528,
-     "views": 207361,
-     "time": "170d 19h",
-     "time_seconds": 14756400,
-     "visits": 78259
+     "name": "lifee.cz",
+     "real_users": 53592,
+     "views": 145109,
+     "time": "161d 0h",
+     "time_seconds": 13910400,
+     "visits": 57565
     },
     {
      "rank": 7,
-     "name": "vlasta.cz",
-     "real_users": 64944,
-     "views": 188507,
-     "time": "98d 18h",
-     "time_seconds": 8532000,
-     "visits": 72569
+     "name": "prima-zeny.cz",
+     "real_users": 48224,
+     "views": 123123,
+     "time": "91d 1h",
+     "time_seconds": 7866000,
+     "visits": 52051
     },
     {
      "rank": 8,
-     "name": "lifee.cz",
-     "real_users": 62040,
-     "views": 221525,
-     "time": "175d 6h",
-     "time_seconds": 15141600,
-     "visits": 69323
+     "name": "vlasta.cz",
+     "real_users": 47784,
+     "views": 105546,
+     "time": "74d 12h",
+     "time_seconds": 6436800,
+     "visits": 50371
     },
     {
      "rank": 9,
-     "name": "svetzeny.cz",
-     "real_users": 61072,
-     "views": 120436,
-     "time": "133d 21h",
-     "time_seconds": 11566800,
-     "visits": 71653
+     "name": "iDNES Onadnes",
+     "real_users": 44792,
+     "views": 334980,
+     "time": "102d 21h",
+     "time_seconds": 8888400,
+     "visits": 57855
     },
     {
      "rank": 10,
-     "name": "iDNES Onadnes",
-     "real_users": 55264,
-     "views": 381666,
-     "time": "109d 19h",
-     "time_seconds": 9486000,
-     "visits": 61458
+     "name": "vogue.cz",
+     "real_users": 31064,
+     "views": 121105,
+     "time": "30d 23h",
+     "time_seconds": 2674800,
+     "visits": 32326
     },
     {
      "rank": 11,
-     "name": "vogue.cz",
-     "real_users": 39600,
-     "views": 154262,
-     "time": "37d 21h",
-     "time_seconds": 3272400,
-     "visits": 42918
+     "name": "iglanc.cz",
+     "real_users": 29568,
+     "views": 62624,
+     "time": "40d 19h",
+     "time_seconds": 3524400,
+     "visits": 33283
     },
     {
      "rank": 12,
-     "name": "iglanc.cz",
-     "real_users": 35288,
-     "views": 81487,
-     "time": "57d 10h",
-     "time_seconds": 4960800,
-     "visits": 41055
+     "name": "zena-in.cz",
+     "real_users": 24112,
+     "views": 89548,
+     "time": "41d 21h",
+     "time_seconds": 3618000,
+     "visits": 28954
     },
     {
      "rank": 13,
-     "name": "Blesk pro ženy",
-     "real_users": 9328,
-     "views": 84105,
-     "time": "16d 6h",
-     "time_seconds": 1404000,
-     "visits": 13805
+     "name": "elle.cz",
+     "real_users": 16632,
+     "views": 24019,
+     "time": "18d 23h",
+     "time_seconds": 1638000,
+     "visits": 18547
     },
     {
      "rank": 14,
-     "name": "zeny.cz",
-     "real_users": 9064,
-     "views": 17330,
-     "time": "26d 21h",
-     "time_seconds": 2322000,
-     "visits": 11172
+     "name": "kafe.cz",
+     "real_users": 12672,
+     "views": 47664,
+     "time": "45d 18h",
+     "time_seconds": 3952800,
+     "visits": 13846
     },
     {
      "rank": 15,
-     "name": "elle.cz",
-     "real_users": 9064,
-     "views": 18103,
-     "time": "17d 3h",
-     "time_seconds": 1479600,
-     "visits": 12348
+     "name": "Blesk pro ženy",
+     "real_users": 10560,
+     "views": 52255,
+     "time": "14d 5h",
+     "time_seconds": 1227600,
+     "visits": 11241
     },
     {
      "rank": 16,
-     "name": "heroine.cz",
-     "real_users": 6160,
-     "views": 13816,
-     "time": "8d 1h",
-     "time_seconds": 694800,
-     "visits": 6625
+     "name": "zeny.cz",
+     "real_users": 7040,
+     "views": 14925,
+     "time": "16d 13h",
+     "time_seconds": 1429200,
+     "visits": 9194
     },
     {
      "rank": 17,
-     "name": "kafe.cz",
-     "real_users": 5896,
-     "views": 35568,
-     "time": "35d 11h",
-     "time_seconds": 3063600,
-     "visits": 9578
+     "name": "dama.cz",
+     "real_users": 5368,
+     "views": 16122,
+     "time": "6d 13h",
+     "time_seconds": 565200,
+     "visits": 5687
     },
     {
      "rank": 18,
-     "name": "dama.cz",
-     "real_users": 4840,
-     "views": 17136,
-     "time": "10d 2h",
-     "time_seconds": 871200,
-     "visits": 7023
+     "name": "damskydenik.cz",
+     "real_users": 4048,
+     "views": 4820,
+     "time": "4d 8h",
+     "time_seconds": 374400,
+     "visits": 4382
     },
     {
      "rank": 19,
-     "name": "damskydenik.cz",
-     "real_users": 1496,
-     "views": 2343,
-     "time": "2d 6h",
-     "time_seconds": 194400,
-     "visits": 2108
+     "name": "heroine.cz",
+     "real_users": 3784,
+     "views": 8371,
+     "time": "4d 14h",
+     "time_seconds": 396000,
+     "visits": 4132
     },
     {
      "rank": 20,
      "name": "chytrazena.cz",
-     "real_users": 880,
-     "views": 45172,
-     "time": "9d 1h",
-     "time_seconds": 781200,
-     "visits": 1890
+     "real_users": 1232,
+     "views": 45760,
+     "time": "8d 17h",
+     "time_seconds": 752400,
+     "visits": 1845
     },
     {
      "rank": 21,
-     "name": "damskaliga.cz",
-     "real_users": 880,
-     "views": 1404,
+     "name": "omlazeni.cz",
+     "real_users": 528,
+     "views": 1579,
      "time": "1d 4h",
      "time_seconds": 100800,
-     "visits": 1295
+     "visits": 912
     },
     {
      "rank": 22,
-     "name": "omlazeni.cz",
-     "real_users": 528,
-     "views": 1375,
-     "time": "22h 30m 0s",
-     "time_seconds": 81000,
-     "visits": 843
+     "name": "modnipeklo.cz",
+     "real_users": 264,
+     "views": 422,
+     "time": "6h 40m 0s",
+     "time_seconds": 24000,
+     "visits": 279
     },
     {
      "rank": 23,
-     "name": "iluxus.cz",
+     "name": "burdastyle.cz",
      "real_users": 264,
-     "views": 243,
-     "time": "4h 59m 59s",
-     "time_seconds": 17999,
-     "visits": 139
+     "views": 1786,
+     "time": "18h 20m 0s",
+     "time_seconds": 66000,
+     "visits": 375
     },
     {
      "rank": 24,
-     "name": "modnipeklo.cz",
+     "name": "jsmekocky.cz",
      "real_users": 264,
-     "views": 535,
-     "time": "9h 59m 59s",
-     "time_seconds": 35999,
-     "visits": 287
+     "views": 457,
+     "time": "7h 30m 0s",
+     "time_seconds": 27000,
+     "visits": 340
     },
     {
      "rank": 25,
-     "name": "burdastyle.cz",
+     "name": "damskaliga.cz",
      "real_users": 264,
-     "views": 1680,
-     "time": "19h 59m 58s",
-     "time_seconds": 71998,
-     "visits": 436
+     "views": 771,
+     "time": "15h 50m 1s",
+     "time_seconds": 57001,
+     "visits": 694
     },
     {
      "rank": 26,
-     "name": "jsmekocky.cz",
-     "real_users": 264,
-     "views": 497,
-     "time": "14h 10m 0s",
-     "time_seconds": 51000,
-     "visits": 355
+     "name": "iluxus.cz",
+     "real_users": 176,
+     "views": 152,
+     "time": "1h 40m 0s",
+     "time_seconds": 6000,
+     "visits": 106
     }
    ]
   }
